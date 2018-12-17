@@ -1,3 +1,7 @@
+---
+title: SE for AI
+layout: post
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ulto777/se_for_ai/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
