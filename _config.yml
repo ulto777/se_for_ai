@@ -1,2 +1,12 @@
-title: SE for AI research summary
+title: Summary of "SE for AI" Research
+email: gujzulto@gmail.com
+description: share research work on software engineering for AI applications (especially deep learning).
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-slate
